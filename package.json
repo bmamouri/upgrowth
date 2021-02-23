@@ -1,0 +1,11 @@
+{
+  "name": "upgrowth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Baqer Mamouri",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
